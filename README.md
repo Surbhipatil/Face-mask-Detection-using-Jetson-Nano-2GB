@@ -69,7 +69,7 @@ facemask is commanded to relieve any air-borne illnesses, passage, what's more, 
 
 # Jetson Nano 2GB
 
-video
+https://user-images.githubusercontent.com/112484744/225980164-d5b8b51d-64a3-462c-bd4f-89164db73c7e.mp4
 
 # Proposed System
 
